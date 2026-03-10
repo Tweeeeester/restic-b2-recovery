@@ -1,5 +1,9 @@
 # Restic B2 Recovery
-Simple docker build to recover backups from Backblaze B2 and Restic [DockerHub](https://hub.docker.com/r/tweeeeester/restic-b2-backup)
+[![Docker Pulls](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Tweeeeester/restic-b2-recovery)
+[![Docker Pulls](https://img.shields.io/docker/v/tweeeeester/restic-b2-recovery?sort=semver)](https://hub.docker.com/r/tweeeeester/restic-b2-recovery)
+___
+
+Simple docker build to recover backups from Backblaze B2 and Restic
 
 ## .ENV
 ```commandline
